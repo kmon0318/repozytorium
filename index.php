@@ -8,6 +8,9 @@
 <body>
     <div id=pojemnik>
         <h1>cudenka</h1>
+        <div id=footer>
+        &copy
+        </div>
     </div>
 </body>
 
