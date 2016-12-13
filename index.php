@@ -7,6 +7,7 @@
 </head>
 <body>
     <div id=pojemnik>
+    sgsdfgsdf
         <h1>cudenka</h1>
         <div id=footer>
         &copy
